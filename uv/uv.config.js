@@ -2,7 +2,7 @@
 
 self.__uv$config = {
   prefix: "/hyperviolet-us-server/uv/service/",
-  bare: "https://8vk2d6-6987.csb.app/",
+  bare: "https://zgl3jk-8080.csb.app/outerspace/",
   encodeUrl: Ultraviolet.codec.xor.encode,
   decodeUrl: Ultraviolet.codec.xor.decode,
   handler: "/hyperviolet/uv/uv.handler.js",
